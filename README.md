@@ -36,7 +36,7 @@ A sleek and responsive weather web application that allows users to search for r
 
 ## 🖼️ UI Preview
 
-![Weather App Preview](Screenshot%202025-06-25%20at%2011.45.53%E2%80%AFPM.png)
+![Weather App Preview] <img width="509" alt="Screenshot 2025-06-25 at 11 48 17 PM" src="https://github.com/user-attachments/assets/b3482486-59ef-4158-8f61-0227f42c5a8b" />
 
 ## 🌐 Getting Started
 
