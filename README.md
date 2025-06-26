@@ -35,6 +35,5 @@ A sleek and responsive weather web application that allows users to search for r
 4. If the city is not found, a graceful alert is shown.
 
 ## 🖼️ UI Preview
-
-![Weather App Preview] <img width="509" alt="Screenshot 2025-06-25 at 11 48 17 PM" src="https://github.com/user-attachments/assets/b3482486-59ef-4158-8f61-0227f42c5a8b" />
+ <img width="509" alt="Screenshot 2025-06-25 at 11 48 17 PM" src="https://github.com/user-attachments/assets/b3482486-59ef-4158-8f61-0227f42c5a8b" />
  
