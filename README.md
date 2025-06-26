@@ -37,10 +37,4 @@ A sleek and responsive weather web application that allows users to search for r
 ## 🖼️ UI Preview
 
 ![Weather App Preview] <img width="509" alt="Screenshot 2025-06-25 at 11 48 17 PM" src="https://github.com/user-attachments/assets/b3482486-59ef-4158-8f61-0227f42c5a8b" />
-
-## 🌐 Getting Started
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
+ 
